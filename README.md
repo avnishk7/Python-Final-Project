@@ -1,6 +1,6 @@
 # Zepto_Python_Project
 Zepto Sales Data Analysis & Dashboard
-🛒 Zepto Sales Data Analysis Project
+Zepto Sales Data Analysis Project
 📌 Project Overview
 
 This project focuses on analyzing real-world sales data from Zepto, a leading quick-commerce platform. 
@@ -105,3 +105,7 @@ Pie Charts: Sales distribution by product category.
 Histograms: Distribution of delivery times to analyze logistics efficiency.
 Conclusion
 Completion of this project demonstrates a foundational capability in interpreting raw data to answer critical business questions. These insights can help Zepto optimize inventory, improve delivery times, and target high-performing regions
+👨‍💻 Author
+Avnish
+Zepto Sales Data Analysis Project
+Python | Pandas | Data Visualization
