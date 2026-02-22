@@ -1,4 +1,4 @@
-# Python-Final-Project
+# Zepto_Python_Project
 Zepto Sales Data Analysis & Dashboard
 🛒 Zepto Sales Data Analysis Project
 📌 Project Overview
